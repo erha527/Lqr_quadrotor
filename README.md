@@ -1,4 +1,4 @@
-# Lqr_qudrotor
+# Lqr_quadrotor
 Quadrotor control with Error-State LQR method
 ## Lapacke configuration
 (https://www.zhang-hb.com/2021/04/28/%E5%9C%A8ubuntu%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85lapack%E5%92%8Clapacke/)
