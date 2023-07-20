@@ -3,7 +3,7 @@ Quadrotor control with Error-State LQR method
 ## Lapacke configuration
 (https://www.zhang-hb.com/2021/04/28/%E5%9C%A8ubuntu%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85lapack%E5%92%8Clapacke/)
 
-## paper
+## Citation
 M. Farrell, J. Jackson, J. Nielsen, C. Bidstrup and T. McLain, "Error-State LQR Control of a Multirotor UAV," 
 2019 International Conference on Unmanned Aircraft Systems (ICUAS), Atlanta, GA, USA, 2019, pp. 704-711, doi: 10.1109/ICUAS.2019.8798359.
 (https://ieeexplore.ieee.org/document/8798359)
