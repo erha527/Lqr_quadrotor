@@ -25,4 +25,4 @@ roslaunch mavros_posix_sitl.launch
 roslaunch traj_server.launch
 ```
 ### Bug
-The scale factor does not have a negative sign.(I don't know which piece of code is written incorrectly)
+The scale factor does not have a negative sign.(I don't know which piece of code is written incorrectly):sob:
